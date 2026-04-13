@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+scikit-learn
+tensorflow
+torch
+transformers
+spacy
+huggingface_hub
+openai
+google-genai
+joblib
+numpy
+pandas
+python-dotenv
